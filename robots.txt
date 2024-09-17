@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mempapra.github.io/sitemap.html.gz
+Sitemap: https://mempapra.github.io/app/sitemap.html.gz
+Sitemap: https://mempapra.github.io/assets/sitemap.html.gz
+Sitemap: https://mempapra.github.io/css/sitemap.html.gz
+Sitemap: https://mempapra.github.io/includes/sitemap.html.gz
+Sitemap: https://mempapra.github.io/item/sitemap.html.gz
+Sitemap: https://mempapra.github.io/src/sitemap.html.gz
